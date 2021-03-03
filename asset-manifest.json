@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/try_ghpages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/github.io/try_ghpages/static/js/main.582549d4.chunk.js",
+    "main.js.map": "/github.io/try_ghpages/static/js/main.582549d4.chunk.js.map",
+    "runtime-main.js": "/github.io/try_ghpages/static/js/runtime-main.a6956cb5.js",
+    "runtime-main.js.map": "/github.io/try_ghpages/static/js/runtime-main.a6956cb5.js.map",
+    "static/js/2.d6ca0325.chunk.js": "/github.io/try_ghpages/static/js/2.d6ca0325.chunk.js",
+    "static/js/2.d6ca0325.chunk.js.map": "/github.io/try_ghpages/static/js/2.d6ca0325.chunk.js.map",
+    "static/js/3.909cbfe3.chunk.js": "/github.io/try_ghpages/static/js/3.909cbfe3.chunk.js",
+    "static/js/3.909cbfe3.chunk.js.map": "/github.io/try_ghpages/static/js/3.909cbfe3.chunk.js.map",
+    "index.html": "/github.io/try_ghpages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/github.io/try_ghpages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d6ca0325.chunk.js.LICENSE.txt": "/github.io/try_ghpages/static/js/2.d6ca0325.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/try_ghpages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6956cb5.js",
+    "static/js/2.d6ca0325.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.582549d4.chunk.js"
+  ]
+}
